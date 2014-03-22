@@ -1,9 +1,9 @@
 PyCrypter
 ========
 
-Proof of concept runtime encrypter for 32-bit portable executables in python.
-Inspired by Hyperion(http://www.nullsecurity.net/papers/nullsec-pe-crypter.pdf) 
-& Veil Framework(https://github.com/Veil-Framework)
+Runtime encrypter for 32-bit portable executables in python. This is a proof of concept I decided to write while learning some of the ways modern malware uses to bypass common antivirus solutions.
+Inspired by [Hyperion](http://www.nullsecurity.net/papers/nullsec-pe-crypter.pdf) 
+& [Veil Framework](https://github.com/Veil-Framework)
 
 Requirements
 ========
